@@ -1,0 +1,46 @@
+/* App.css */
+
+.app-container {
+  text-align: center;
+  margin: 20px;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  color: #4285f4; /* Google Blue */
+}
+
+.profile {
+  background-color: #f8f9fa; /* Light Gray */
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #ea4335; /* Google Red */
+}
+
+p {
+  color: #3c4043; /* Google Gray Text */
+}
+
+.elapsed-time {
+  margin-top: 10px;
+  font-weight: bold;
+  color: #0f9d58; /* Google Green */
+}
+
+/* Button Styles */
+.btn-primary {
+  background-color: #4285f4; /* Google Blue */
+  border: 1px solid #4285f4;
+  color: #ffffff; /* White text */
+}
+
+.btn-primary:hover {
+  background-color: #0f4cbf; /* Darker Blue on hover */
+  border: 1px solid #0f4cbf;
+  color: #ffffff;
+}
